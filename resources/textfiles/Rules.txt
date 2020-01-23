@@ -1,0 +1,12 @@
+Welcome to JumpIn!
+The objective of this game is
+to get all the rabbits into holes.
+In order to move, rabbits need
+to jump over at least on other
+piece, such as mushrooms,
+foxes or other rabbits. Foxes
+can slide forward or 
+backwards in the direction
+they are facing.
+
+GoodLuck!

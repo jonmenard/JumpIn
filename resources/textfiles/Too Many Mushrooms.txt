@@ -1,0 +1,2 @@
+Remember there can only 
+be 2 mushrooms on the board.
