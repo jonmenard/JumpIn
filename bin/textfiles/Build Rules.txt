@@ -1,0 +1,13 @@
+Select a piece from
+the selection bar
+and then tap a
+spot on the board
+to place it there.
+There can be a 
+maximum of 2
+mushrooms, 3
+rabbits and 2
+foxes. Once the
+level is ready
+press confirm build
+to save. 

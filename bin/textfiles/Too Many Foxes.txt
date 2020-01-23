@@ -1,0 +1,4 @@
+Remember there can only 
+be 2 foxes on the board 
+and foxes can only be placed
+on flat tiles.
